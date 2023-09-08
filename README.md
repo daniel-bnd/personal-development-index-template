@@ -164,7 +164,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.audible.com/pd/Software-Engineering-at-Google-Audiobook/B08VLS9Y95">[Book] Software Engineering at Google</a> (5%) 
+        <a href="https://www.audible.com/pd/Software-Engineering-at-Google-Audiobook/B08VLS9Y95">[Book] Software Engineering at Google</a> (10%) 
       </summary>
       <ul>
         <li>
